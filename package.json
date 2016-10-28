@@ -19,7 +19,7 @@
     "moduleName": "ContextMenu"
   },
   "dependencies": {
-    "openlayers": "^3.18.2"
+    "openlayers": "^3.19.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.0",
